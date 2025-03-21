@@ -24,19 +24,33 @@ https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sh
 
 # Computer-Vision-Project
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+-Fine-Grained Bird Classification (nabird dataset)
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+-Cat and Dog Breed Detection (oxford dataset)
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+-Cityscapes Instance Segmentation
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-Vehicle Detection for Traffic Surveillance
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-OCR
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-Defect Detection in Manufacturing
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
 ---
 
 # Natural-Language-Processing-Project / LLM-Project
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+-Twitter text binary classification
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
+-Named Entity Recognition 
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-rag thesis paper roasting llm fine tune
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
