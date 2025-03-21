@@ -20,16 +20,23 @@ https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sh
 
 <img src="https://github.com/user-attachments/assets/50a80742-a299-4b7b-9f74-d4892b94719c" width="200">
 
+---
+
+# Computer-Vision-Project
+
+-Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
 ---
 
-# Data-science-Project
+# Natural-Language-Processing-Project / LLM-Project
 
 -Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
