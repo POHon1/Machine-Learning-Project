@@ -12,7 +12,7 @@ Code + Demo via Google Colab:
   - [Massively Open Online Courses](#moocs)
   - [Intensive Programs](#intensive-programs)
   - [Colleges](#colleges)
-- [Natural-Language-Processing-Projects / LLM-Projects](#Natural-Language-Processing-Projects)
+- [Natural-Language-Processing-Projects/LLM-Projects](#Natural-Language-Processing-Projects/LLM-Projects)
   - [Algorithms](#algorithms)
     - [Supervised Learning](#supervised-learning)
     - [Unsupervised Learning](#unsupervised-learning)
@@ -49,7 +49,7 @@ https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sh
 
 ---
 
-## Natural-Language-Processing-Projects / LLM-Projects
+## Natural-Language-Processing-Projects/LLM-Projects
 
 -Twitter text binary classification
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
