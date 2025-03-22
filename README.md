@@ -26,36 +26,34 @@ Code + Demo via Google Colab:
 
 ### Computer-Vision-Projects
 
--Fine-Grained Bird Classification (nabird dataset)<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+*Many Data science projects revolve around solving real-world problems using Data analysis using Machine learning. Whether predicting customer churn, detecting fraud, estimating house prices, or classifying medical conditions, the goal remains the same: turning raw data into actionable insights using ML algorithm. Commonly used techniques in these projects is XGBoost. 
 
--Cat and Dog Breed Detection (oxford dataset)<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+**The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)**
+<br/>
 
--Cityscapes Instance Segmentation<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--Vehicle Detection for Traffic Surveillance<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--OCR<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--Defect Detection in Manufacturing<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+| Link Google Colab | Description |
+| --- | --- |
+| [Fine-Grained Bird Classification. (nabird dataset)](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | . |
+| [Cat and Dog Breed Detection. (oxford dataset)](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | . |
+| [Cityscapes Instance Segmentation.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
+| [Vehicle Detection for Traffic Surveillance.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
+| [OCR.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
+| [Defect Detection in Manufacturing.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
 
 ---
 
 ### Natural-Language-Processing-Projects
 
--Twitter text binary classification<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+Many Data science projects revolve around solving real-world problems using Data analysis using Machine learning. Whether predicting customer churn, detecting fraud, estimating house prices, or classifying medical conditions, the goal remains the same: turning raw data into actionable insights using ML algorithm. Commonly used techniques in these projects is XGBoost. 
 
--Named Entity Recognition<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+**The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)**
+<br/>
 
--rag thesis paper roasting llm fine tune<br/>
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+| Link Google Colab | Description |
+| --- | --- |
+| [Twitter text binary classification.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | . |
+| [Named Entity Recognition.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | . |
+| [rag thesis paper roasting llm fine tune.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
 
 ---
 
@@ -63,7 +61,7 @@ https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sh
 
 Many Data science projects revolve around solving real-world problems using Data analysis using Machine learning. Whether predicting customer churn, detecting fraud, estimating house prices, or classifying medical conditions, the goal remains the same: turning raw data into actionable insights using ML algorithm. Commonly used techniques in these projects is XGBoost. 
 
-The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)
+**The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)**
 <br/>
 
 | Link Google Colab | Description |
