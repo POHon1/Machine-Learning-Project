@@ -6,15 +6,13 @@ Personal repository to showcase ML projects for learning prupose.
 Code + Demo via Google Colab:
 
 ## Table of Contents
-- [Data-science-Project](#Data-science-Project)
-- [Where do I Start?](#where-do-i-start)
-- [Training Resources](#training-resources)
+- [Computer-Vision-Projects](#Computer-Vision-Projects)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
   - [Massively Open Online Courses](#moocs)
   - [Intensive Programs](#intensive-programs)
   - [Colleges](#colleges)
-- [The Data Science Toolbox](#the-data-science-toolbox)
+- [Natural-Language-Processing-Projects / LLM-Projects](#Natural-Language-Processing-Projects)
   - [Algorithms](#algorithms)
     - [Supervised Learning](#supervised-learning)
     - [Unsupervised Learning](#unsupervised-learning)
@@ -22,6 +20,10 @@ Code + Demo via Google Colab:
     - [Reinforcement Learning](#reinforcement-learning)
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
+- [Data-science-Projects](#Data-science-Projects)
+  - [Tutorials](#tutorials)
+  - [Tutorials](#tutorials)
+  - [Tutorials](#tutorials)
 
 ---
 
