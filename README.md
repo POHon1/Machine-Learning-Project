@@ -21,7 +21,7 @@ Code + Demo via Google Colab:
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
 - [Data-science-Projects](#Data-science-Projects)
-  - [Tutorials](-Prediksi harga rumah di Jakarta Selatan)
+  - [Tutorials](#Prediksi-harga-rumah-di-Jakarta-Selatan)
   - [Tutorials](#tutorials)
   - [Tutorials](#tutorials)
 
@@ -64,7 +64,7 @@ https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sh
 
 ### Data-science-Projects
 
--Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
+-Prediksi-harga-rumah-di-Jakarta-Selatan / House Price Prediction in South Jakarta
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
 <img src="https://github.com/user-attachments/assets/303a8ad0-0f2a-47f0-84fe-eb89e8e946bf" width="200">
