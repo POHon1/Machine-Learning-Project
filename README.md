@@ -1,11 +1,11 @@
 <img src="https://github.com/user-attachments/assets/7142b6be-0439-43e4-af79-a2c7e10d37e3" width="800">
 
 # Machine Learning Projects 
-Personal repository to showcase ML projects for learning prupose.
+**Personal repository to showcase ML projects for learning prupose.**
 
 Code + Demo via Google Colab:
 
-## Table of Contents
+### Table of Contents
 - [Computer-Vision-Projects](#Computer-Vision-Projects)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
@@ -21,48 +21,48 @@ Code + Demo via Google Colab:
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
 - [Data-science-Projects](#Data-science-Projects)
-  - [Tutorials](#tutorials)
+  - [Tutorials](-Prediksi harga rumah di Jakarta Selatan)
   - [Tutorials](#tutorials)
   - [Tutorials](#tutorials)
 
 ---
 
-## Computer-Vision-Projects
+### Computer-Vision-Projects
 
--Fine-Grained Bird Classification (nabird dataset)
+-Fine-Grained Bird Classification (nabird dataset)<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Cat and Dog Breed Detection (oxford dataset)
+-Cat and Dog Breed Detection (oxford dataset)<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Cityscapes Instance Segmentation
+-Cityscapes Instance Segmentation<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Vehicle Detection for Traffic Surveillance
+-Vehicle Detection for Traffic Surveillance<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--OCR
+-OCR<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
--Defect Detection in Manufacturing
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
----
-
-## Natural-Language-Processing-Projects
-
--Twitter text binary classification
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--Named Entity Recognition 
-https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
-
--rag thesis paper roasting llm fine tune
+-Defect Detection in Manufacturing<br/>
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
 
 ---
 
-## Data-science-Projects
+### Natural-Language-Processing-Projects
+
+-Twitter text binary classification<br/>
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-Named Entity Recognition<br/>
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+-rag thesis paper roasting llm fine tune<br/>
+https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
+
+---
+
+### Data-science-Projects
 
 -Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
