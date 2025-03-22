@@ -1,9 +1,32 @@
 Code + Demo
 via Google Colab:
 
+- [Data-science-Project](#Data-science-Project)
+- [Where do I Start?](#where-do-i-start)
+- [Training Resources](#training-resources)
+  - [Tutorials](#tutorials)
+  - [Free Courses](#free-courses)
+  - [Massively Open Online Courses](#moocs)
+  - [Intensive Programs](#intensive-programs)
+  - [Colleges](#colleges)
+- [The Data Science Toolbox](#the-data-science-toolbox)
+  - [Algorithms](#algorithms)
+    - [Supervised Learning](#supervised-learning)
+    - [Unsupervised Learning](#unsupervised-learning)
+    - [Semi-Supervised Learning](#semi-supervised-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Data  Mining Algorithms](#data-mining-algorithms)
+    - [Deep Learning Architectures](#deep-learning-architectures)
+
+
+
+
+
+
+
 ---
 
-# Data-science-Project
+## Data-science-Project
 
 -Prediksi harga rumah di Jakarta Selatan / House Price Prediction in South Jakarta
 https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing
