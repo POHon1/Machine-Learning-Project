@@ -21,9 +21,9 @@ Code + Demo via Google Colab:
     - [Data  Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
 - [Data-science-Projects](#Data-science-Projects)
-  - [Tutorials](#Prediksi-harga-rumah-di-Jakarta-Selatan)
-  - [Tutorials](#tutorials)
-  - [Tutorials](#tutorials)
+  - Prediksi-harga-rumah-di-Jakarta-Selatan / House Price Prediction in South Jakarta
+  - Prediksi kemungkinan seseorang selamat dalam kecelakaan Titanic / Titanic Survivor Prediction
+  - Prediksi Risiko Churn Pelanggan / Customer Churn Prediction
 
 ---
 
