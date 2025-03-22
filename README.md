@@ -1,25 +1,22 @@
 <img src="https://github.com/user-attachments/assets/7142b6be-0439-43e4-af79-a2c7e10d37e3" width="800">
 
 # Machine Learning Projects 
-**Personal repository to showcase ML projects for learning prupose.**
+**Personal repository to showcase ML projects for learning prupose (Indonesian/English)**
 
 Code + Demo via Google Colab:
 
 ### Table of Contents
 - [Computer-Vision-Projects](#Computer-Vision-Projects)
-  - [Tutorials](#tutorials)
-  - [Free Courses](#free-courses)
-  - [Massively Open Online Courses](#moocs)
-  - [Intensive Programs](#intensive-programs)
-  - [Colleges](#colleges)
+  - Fine-Grained Bird Classification (nabird dataset)
+  - Cat and Dog Breed Detection (oxford dataset)
+  - Cityscapes Instance Segmentation
+  - Vehicle Detection for Traffic Surveillance
+  - OCR
+  - Defect Detection in Manufacturing
 - [Natural-Language-Processing-Projects](#Natural-Language-Processing-Projects)
-  - [Algorithms](#algorithms)
-    - [Supervised Learning](#supervised-learning)
-    - [Unsupervised Learning](#unsupervised-learning)
-    - [Semi-Supervised Learning](#semi-supervised-learning)
-    - [Reinforcement Learning](#reinforcement-learning)
-    - [Data  Mining Algorithms](#data-mining-algorithms)
-    - [Deep Learning Architectures](#deep-learning-architectures)
+  - Twitter text binary classification
+  - Named Entity Recognition
+  - rag thesis paper roasting llm fine tune
 - [Data-science-Projects](#Data-science-Projects)
   - Prediksi-harga-rumah-di-Jakarta-Selatan / House Price Prediction in South Jakarta
   - Prediksi kemungkinan seseorang selamat dalam kecelakaan Titanic / Titanic Survivor Prediction
