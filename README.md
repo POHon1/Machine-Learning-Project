@@ -33,12 +33,12 @@ Code + Demo via Google Colab:
 
 | Link Google Colab | Description |
 | --- | --- |
-| [Fine-Grained Bird Classification. (nabird dataset)](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | . |
-| [Cat and Dog Breed Detection. (oxford dataset)](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | . |
-| [Cityscapes Instance Segmentation.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
-| [Vehicle Detection for Traffic Surveillance.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
-| [OCR.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
-| [Defect Detection in Manufacturing.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
+| [Fine-Grained Bird Classification.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | <img src="https://github.com/user-attachments/assets/3f6dc16f-c47f-4048-8eae-b92f581f7b38" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [Cat and Dog Breed Detection.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/c17d627a-8189-4d52-937c-b4b2c9613743" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [Cityscapes Instance Segmentation.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/84901c55-6448-4c84-8ff0-dc15fb451d2c" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [Vehicle Detection for Traffic Surveillance.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/166de3f3-324b-400c-92c9-27d3ecd3aae8" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [OCR.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/2bebf49f-30dc-4aaf-bd6e-10440f318643" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [Defect Detection in Manufacturing.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/baafa240-8018-40df-9b9d-b5766d4905f8" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 
 ---
 
@@ -51,11 +51,12 @@ Many Data science projects revolve around solving real-world problems using Data
 
 | Link Google Colab | Description |
 | --- | --- |
-| [Twitter text binary classification.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | . |
-| [Named Entity Recognition.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | . |
-| [rag thesis paper roasting llm fine tune.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | . |
+| [Twitter text binary classification.](https://colab.research.google.com/drive/1G01C4kehXI7Ntc0rCzhRKOFfhR6efq6-?usp=sharing) | <img src="https://github.com/user-attachments/assets/338e83b6-3095-4bf8-a1ac-ae7dcf7fb4f0" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [Named Entity Recognition.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/db55d206-c58f-4754-a14b-ba5fcbd4ae2d" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
+| [rag thesis paper roasting llm fine tune.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/34bb935c-52fd-4813-a240-cdb5609ec925" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 
 ---
+
 
 ### Data-science-Projects
 
