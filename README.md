@@ -70,3 +70,6 @@ Many Data science projects revolve around solving real-world problems using Data
 | [South Jakarta House Price Prediction.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | <img src="https://github.com/user-attachments/assets/303a8ad0-0f2a-47f0-84fe-eb89e8e946bf" width="200"><br/>This code also functions as a calculator to estimate house prices in South Jakarta. |
 | [Titanic Survivor Prediction.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/f008f40a-7fa0-4418-aa18-c655a60b58c0" width="200"><br/>This code also functions as a calculator to estimate the likelihood of a person's survival in the Titanic disaster based on several factors. |
 | [Customer Churn Prediction.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/50a80742-a299-4b7b-9f74-d4892b94719c" width="200"><br/>This code is designed to predict customer churn, helping businesses identify customers who are likely to stop using a service. |
+
+
+note: these pic isn't mine, i took it on google images :D
