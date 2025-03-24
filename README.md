@@ -51,7 +51,7 @@ Many Data science projects revolve around solving real-world problems using Data
 
 | Link Google Colab | Description |
 | --- | --- |
-| [Twitter text binary classification.](https://colab.research.google.com/drive/1G01C4kehXI7Ntc0rCzhRKOFfhR6efq6-?usp=sharing) | <img src="https://github.com/user-attachments/assets/338e83b6-3095-4bf8-a1ac-ae7dcf7fb4f0" width="200"><br/>This project uses an LSTM model with the Sentiment140 dataset and GloVe 6B.50d word embeddings. This code also functions as a tweet or comment sentiment classifier demo. |
+| [Twitter text binary classification.](https://colab.research.google.com/drive/1G01C4kehXI7Ntc0rCzhRKOFfhR6efq6-?usp=sharing) | <img src="https://github.com/user-attachments/assets/338e83b6-3095-4bf8-a1ac-ae7dcf7fb4f0" width="200"><br/>This project uses an LSTM model with the Sentiment140 dataset and GloVe 6B.50d word embeddings. This code also functions as a tweet or comment sentiment classifier demo.<br/><br/>Huggingface dataset repository: "adilbekovich/Sentiment140Twitter"<br/>Huggingface Word embeddings = "antokun/glove.6B.50d" |
 | [Named Entity Recognition.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/db55d206-c58f-4754-a14b-ba5fcbd4ae2d" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 | [rag thesis paper roasting llm fine tune.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/34bb935c-52fd-4813-a240-cdb5609ec925" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 
@@ -67,9 +67,9 @@ Many Data science projects revolve around solving real-world problems using Data
 
 | Link Google Colab | Description |
 | --- | --- |
-| [South Jakarta House Price Prediction.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | <img src="https://github.com/user-attachments/assets/303a8ad0-0f2a-47f0-84fe-eb89e8e946bf" width="200"><br/>This code also functions as a calculator to estimate house prices in South Jakarta. |
-| [Titanic Survivor Prediction.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/f008f40a-7fa0-4418-aa18-c655a60b58c0" width="200"><br/>This code also functions as a calculator to estimate the likelihood of a person's survival in the Titanic disaster based on several factors. |
-| [Customer Churn Prediction.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/50a80742-a299-4b7b-9f74-d4892b94719c" width="200"><br/>This code is designed to predict customer churn, helping businesses identify customers who are likely to stop using a service. |
+| [South Jakarta House Price Prediction.](https://colab.research.google.com/drive/1kgMPJXeiVIimy52GG5UGLAlzAMy33KCQ?usp=sharing) | <img src="https://github.com/user-attachments/assets/303a8ad0-0f2a-47f0-84fe-eb89e8e946bf" width="200"><br/>This code also functions as a calculator to estimate house prices in South Jakarta.<br/><br/>Huggingface dataset repository: "antokun/Tabular-Dataset",  Filename = "HARGA RUMAH JAKSEL.xlsx" |
+| [Titanic Survivor Prediction.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/f008f40a-7fa0-4418-aa18-c655a60b58c0" width="200"><br/>This code also functions as a calculator to estimate the likelihood of a person's survival in the Titanic disaster based on several factors.<br/><br/>Huggingface dataset repository: "phihung/titanic" |
+| [Customer Churn Prediction.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/50a80742-a299-4b7b-9f74-d4892b94719c" width="200"><br/>This code is designed to predict customer churn, helping businesses identify customers who are likely to stop using a service.<br/><br/>Huggingface dataset repository: "d0r1h/customer_churn" |
 
 
 note: these pic isn't mine, i took it on google images :D
