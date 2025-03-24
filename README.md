@@ -51,7 +51,7 @@ Many Data science projects revolve around solving real-world problems using Data
 
 | Link Google Colab | Description |
 | --- | --- |
-| [Twitter text binary classification.](https://colab.research.google.com/drive/1G01C4kehXI7Ntc0rCzhRKOFfhR6efq6-?usp=sharing) | <img src="https://github.com/user-attachments/assets/338e83b6-3095-4bf8-a1ac-ae7dcf7fb4f0" width="200"><br/>This code also functions as a tweet or comment sentiment classifier demo. This project uses an LSTM model with the Sentiment140 dataset and GloVe 6B.50d word embeddings. |
+| [Twitter text binary classification.](https://colab.research.google.com/drive/1G01C4kehXI7Ntc0rCzhRKOFfhR6efq6-?usp=sharing) | <img src="https://github.com/user-attachments/assets/338e83b6-3095-4bf8-a1ac-ae7dcf7fb4f0" width="200"><br/>This project uses an LSTM model with the Sentiment140 dataset and GloVe 6B.50d word embeddings. This code also functions as a tweet or comment sentiment classifier demo. |
 | [Named Entity Recognition.](https://colab.research.google.com/drive/1g3YfCsHqTlkX38X6rhbk6o3EX_BresTd?usp=sharing) | <img src="https://github.com/user-attachments/assets/db55d206-c58f-4754-a14b-ba5fcbd4ae2d" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 | [rag thesis paper roasting llm fine tune.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/34bb935c-52fd-4813-a240-cdb5609ec925" width="200"><br/>This code also functions as a tweet or comment sentiment classifier. |
 
