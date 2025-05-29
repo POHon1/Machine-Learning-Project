@@ -71,4 +71,4 @@ Many Data science projects revolve around solving real-world problems using Data
 | [Customer Churn Prediction.](https://colab.research.google.com/drive/15rRXVAaS6g_913y8vdWJqj13b5q2ieRq?usp=sharing) | <img src="https://github.com/user-attachments/assets/50a80742-a299-4b7b-9f74-d4892b94719c" width="200"><br/>This code is designed to predict customer churn, helping businesses identify customers who are likely to stop using a service.<br/><br/>Huggingface dataset repository: "d0r1h/customer_churn" |
 
 
-note: these pic isn't mine, i took it on google images :D
+note: some of these pic isn't mine, i took it on google images :D
