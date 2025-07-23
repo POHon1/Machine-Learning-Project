@@ -3,24 +3,24 @@
 # Machine Learning Projects 
 **Personal repository to showcase ML projects for learning prupose.**
 
-Code + Demo via Google Colab:
+Code + Demo via Google Colab or Huggingface Spaces Gradio:
 
 ### Table of Contents
 - [Computer-Vision-Projects](#Computer-Vision-Projects)
   - Fine-Grained Bird Classification (nabird dataset)
   - Cat and Dog Breed Detection (oxford dataset)
-  - Cityscapes Instance Segmentation
-  - Vehicle Detection for Traffic Surveillance
-  - OCR
-  - Defect Detection in Manufacturing
+  - Vehicle Detection traffic (UA-DETARC dataset)
+  - Indonesian coin currency counter (manual dataset collection)
+  - Pokemon tcg Indonesia card counter (manual dataset collection)
 - [Natural-Language-Processing-Projects](#Natural-Language-Processing-Projects)
-  - Twitter text binary classification
-  - Named Entity Recognition
-  - rag thesis paper roasting llm fine tune
+  - Twitter text binary classification (Sentiment140Twitter dataset)
+  - Llama2 short story generator Qlora ()
+  - NER for Machine Learning research papers ()
+  - RAG Enhanced Analysis: The Intelligent Woman’s Guide to Socialism and Capitalism ()
 - [Data-science-Projects](#Data-science-Projects)
-  - South Jakarta House Price Prediction
-  - Titanic Survivor Prediction
-  - Customer Churn Prediction
+  - South Jakarta House Price Prediction (kaggle)
+  - Titanic Survivor Prediction (Huggingface)
+  - Customer Churn Prediction (Huggingface)
 
 ---
 
