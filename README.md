@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/7142b6be-0439-43e4-af79-a2c7e10d37e3" width="800">
 
-# Machine Learning Projects 
-**Personal repository to showcase ML projects for learning prupose.**
+# Personal Machine Learning Projects 
+**Personal portofolio repository to showcase ML projects for learning prupose.**
 
 Code + Demo via Google Colab or Huggingface Spaces Gradio:
 
