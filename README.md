@@ -1,8 +1,9 @@
 <img src="https://github.com/user-attachments/assets/7142b6be-0439-43e4-af79-a2c7e10d37e3" width="800">
 
 # Personal Machine Learning Projects 
+### Antoluis Hendry from Bina Nusantara University (not yet graduate but already complete defense)
 **Personal portofolio repository to showcase ML projects for learning prupose.**
-
+<br/><br/><br/>
 Code + Demo via Google Colab or Huggingface Spaces Gradio:
 
 ### Table of Contents
