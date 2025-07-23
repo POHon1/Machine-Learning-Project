@@ -26,9 +26,9 @@ Code + Demo via Google Colab:
 
 ### Computer-Vision-Projects
 
-*Many Data science projects revolve around solving real-world problems using Data analysis using Machine learning. Whether predicting customer churn, detecting fraud, estimating house prices, or classifying medical conditions, the goal remains the same: turning raw data into actionable insights using ML algorithm. Commonly used techniques in these projects is XGBoost. 
+Many Computer Vision projects today rely on deep learning models like CNNs or Vision Transformers. the main task is for classifying, detecting, or segmenting images.
 
-**The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)**
+**The key in Computer Vision isn't the model architecture anymore, i mean it still matter for example cnn based is more computational cost friendly than vision based model and vision based is stronger than cnn generaly. But the main key is data quality and how well you annotate and choose the right preprocessing method. (My opinion)**
 <br/>
 
 | Link Google Colab | Description |
@@ -43,9 +43,9 @@ Code + Demo via Google Colab:
 
 ### Natural-Language-Processing-Projects 
 
-Many Data science projects revolve around solving real-world problems using Data analysis using Machine learning. Whether predicting customer churn, detecting fraud, estimating house prices, or classifying medical conditions, the goal remains the same: turning raw data into actionable insights using ML algorithm. Commonly used techniques in these projects is XGBoost. 
+Many NLP projects nowadays focus on Decoder based transformer or can be called Large Language Models (LLM) (the rest nlp's method is for niche only like research or smth). Mainly it's focuses around answering questions or summarizing documents ect. The goal is to adapt pretrained model for spesific use cases because it's useless to do training from scratch because lack of efficiency. 
 
-**The key in Data Science is having the right data and the right approach—XGBoost takes care of the rest. (My opinion)**
+**The key in NLP is not just the model or infra, but how you prepare your dataset like garbage in garbage out. (My opinion)**
 <br/>
 
 
